@@ -36,4 +36,4 @@ An end-to-end Power BI solution developed for Adventure Works, a global manufact
 *   **Features:** Bookmarks, Slicers, Tooltips, and What-If Parameters.
 
 ---
-*Created by [Your Name] - Power BI Developer (3+ Years Experience)*
+*Created by Nikesh Anand - Power BI Developer (3+ Years Experience)*
